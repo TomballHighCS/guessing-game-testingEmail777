@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11523096&assignment_repo_type=AssignmentRepo)
 # GuessingGame
 Guessing Game – Daily Grade
 This program plays a guessing game where the computer picks a random number and asks the player to try to guess it. Let the player keep guessing, but tell them if their guess is too low or too high. When they get it right, tell them they win!
